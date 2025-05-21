@@ -3,7 +3,7 @@
 EDA Script
 ==========================================================================================
 Scripts Purpose:
-    This script investigates the dataset helping to understand the scope of the
+    This script investigates the dataset helping to understand the basic scope of the
     data.
     Run this script to explore and answer some of the relevant questions that 
     give insights to businesses.
