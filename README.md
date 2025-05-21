@@ -64,6 +64,7 @@ data-warehouse-project/
 │   ├── bronze/                         # Scripts for extracting and loading raw data
 │   ├── silver/                         # Scripts for cleaning and transforming data
 │   ├── gold/                           # Scripts for creating analytical models
+│   ├── EDA/                            # Scripts for investigating and exploring the data as well as analysis reports
 │
 ├── tests/                              # Test scripts and quality files
 │
